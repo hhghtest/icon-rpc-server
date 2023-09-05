@@ -15,3 +15,4 @@ iconcommons>=1.0.5
 urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
 websockets>=10.0 # not directly required, pinned by Snyk to avoid a vulnerability
 httpx>=0.23.0 # not directly required, pinned by Snyk to avoid a vulnerability
+aio-pika>=9.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
